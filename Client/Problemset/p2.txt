@@ -1,0 +1,1 @@
+Se dau 3 numere. Afisati minimul dintre ele.

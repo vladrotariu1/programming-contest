@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Server.dir/main.c.o CMakeFiles/Server.dir/database.c.o CMakeFiles/Server.dir/queue.c.o CMakeFiles/Server.dir/helpfunc.c.o  -o Server  -lsqlite3 -lpthread 

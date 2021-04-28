@@ -1,0 +1,1 @@
+Se dau doua numere. Afisati diferenta lor.
